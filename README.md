@@ -1,12 +1,12 @@
 # Project-1---Income-Tax-Calculator
 
-Income Tax Calculator
+Income Tax Calculator:
 This project study develops a program that calculates income tax. Each year, nearly everyone with an income faces the unpleasant task of computing his or her income tax return. If only it could be done as easily as suggested here! We start with the customer request phase.
 
-Request
+Request:
 The customer requests a program that computes a person’s income tax.
 
-Analysis
+Analysis:
 Analysis often requires the programmer to learn some things about the problem domain, in this case, the relevant tax law. For the sake of simplicity, let’s assume the following tax laws:
 
 All taxpayers are charged a flat tax rate of 20%
